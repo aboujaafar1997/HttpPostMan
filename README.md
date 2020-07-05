@@ -1,6 +1,6 @@
 # HttpPostMan V 1.0.0 :
 This JAR is a http request sender support a token bearer and all type of request (GET-POST-DELETE-PUT) From any Servlet to PHP native
-or Framwork (laminas znend symfony ...) . 
+or Framwork (laminas znend symfony ...) or any microservices api. 
 
 ## Import this JAR : 
 is simple just add jar in your Project
